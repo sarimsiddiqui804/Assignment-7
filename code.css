@@ -58,6 +58,9 @@ button{
     text-align: center;
 }
 .instra button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background-color: white;
     color: #e52d6b;
     margin-bottom: 10px;
