@@ -58,7 +58,7 @@ button{
     text-align: center;
 }
 .instra button{
-    transform: translate(-10px);
+    transform: translate(20px);
     background-color: white;
     color: #e52d6b;
     margin-bottom: 10px;
